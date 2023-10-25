@@ -23,6 +23,7 @@ function App() {
       <br />
       <br />
       <button onClick={removeHandler}>REMOVE VALUE</button>
+      <p>This is new feature</p>
     </>
   );
 }
